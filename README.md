@@ -1,3 +1,10 @@
+# My contributions
+this will be a plug in for showing the links to the windows being browsed by streamers to hopfuly stop the lazyness of not showing links
+
+the plugin will watch to see if the streamer has fucused on a new chrome page. and then will relay that information to a file that the plug in will view
+---
+
+
 # OBS Plugin Template
 
 ## Introduction
